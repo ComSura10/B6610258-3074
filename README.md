@@ -15,9 +15,9 @@
 
 
 ### Jenkins
-![Jenkins CI/CD](pic/jenkins.png)
+![Jenkins CI/CD](pic/Jenkins.png)
 Jenkins ใช้สำหรับ Continuous Integration / Continuous Delivery (CI/CD) pipelines
 
 ### Grafana
-![Grafana Monitoring](pic/grafana.png)
+![Grafana Monitoring](pic/Grafana.png)
 Grafana ใช้สำหรับการสรุป และแสดงข้อมูลการตรวจสอบระบบ (Monitoring)
